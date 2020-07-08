@@ -24,40 +24,28 @@ a {
 li { display: inline-block; margin-right: 10px;
 }
 
-
 .menubleu { 
     width: 100%; 
-    height: 200%; 
-    text-align: center;
+    height: 100%; 
     vertical-align: middle; 
-    color:white;
+    text-align: center; 
     background-color: aqua;
 }
 
-
-.global{
-    width:100%;
-    height:500px;
-    border:1px black ;
-}
-
-
-.phrasesdepresentation {
-    height: 200px;
-    width: 100%;
+.hautb {
     text-align: center;
-    
 }
 
-.competences { 
-    max-width:50%; 
-    display: inline-block;
-    align-items: center;
-    margin : 2%;
+.hautb1 { width: 150px; height: 30px; line-height: 30px; margin-left: 20%; border: white solid 1px; border-radius: 3px;
 }
 
-.contact { 
-    width:40%; 
-    height:100px;
-    margin : 2%
+.hautb2 { width: 150px; height: 30px; line-height: 30px; background-color: yellow; color: black; border-radius: 3px;
+}
+
+h5{
+  text-align: center;  
+}
+
+ul{
+    text-align: center;
 }
