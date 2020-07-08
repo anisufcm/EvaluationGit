@@ -1,0 +1,91 @@
+#navbarSupportedContent{
+  background-color:rgb(71, 3, 8);
+}
+.textWhite{
+  color: white;
+  font-size: larger;
+}
+.active{
+  /* text-align: center; */
+  background-color:  rgb(117, 4, 12);
+}
+.nav-item{
+  width: 200px;
+  margin-left: 3%;
+}
+.nav-item:hover, .nav-item:focus ,.nav-item:active{
+  background-color:  rgb(117, 4, 12); 
+
+
+}
+
+.titreEntete{
+  margin-top: 7%;
+  margin-bottom: 3%;
+  text-align: center;
+  color: darkred;
+}
+.presentation{
+  text-align: center; 
+  font-weight: 600;
+  font-size: large;
+  margin-bottom: 4%;
+}
+.titre{
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.Divimages{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  margin-bottom: 6%;
+}
+.monTitre{
+  font-size: x-large;
+  font-weight: 700;
+  color: brown;
+}
+.Divimages2{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  margin-bottom: 25%;
+  margin: 40px;
+}
+.Divimages2 > div{
+  margin: 30px;
+}
+.monTitre2{
+  font-size: large;
+  font-weight: 700;
+  color: brown;
+}
+.divcontact{
+  text-align: center;
+  margin-bottom: 7%;
+  margin-top: 4%;
+}
+.contact{
+  text-align: center;
+}
+#contact{
+  margin-right: 2%;
+}
+section{
+  margin-bottom: 5%;
+}
+.ligne1{
+  border: 1px solid black;
+  margin-right: 43%;
+margin-left: 43%;
+  /* text-align: center; */
+  border-radius: 5px;    
+}
+.pourMeContacter{
+  text-align: center;
+  font-size: larger;
+  font-weight: 700;
+}
