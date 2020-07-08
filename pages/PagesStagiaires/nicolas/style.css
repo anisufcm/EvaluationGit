@@ -14,7 +14,7 @@ body {
     line-height: 40px; 
 }
 
-.competences {
+.competences, h2 {
     font-size: 24px;
     display: flex;
     align-items: center;
@@ -89,3 +89,6 @@ body {
     margin-right: 2.5px;
 }
 
+.partie3 {
+    margin-left: 110px;
+}
