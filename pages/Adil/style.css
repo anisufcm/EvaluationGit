@@ -1,0 +1,31 @@
+body {
+
+}
+
+body > div {
+
+}
+
+.présentation {
+    border: 4px solid red;
+    height: 300px;
+    margin: 2%;
+}
+
+.expériences {
+    border: 4px solid red;
+    height: 300px;
+    margin: 2%;
+}
+
+.compétences {
+    border: 4px solid red;
+    height: 300px;
+    margin: 2%;
+}
+
+.ambitions {
+    border: 4px solid red;
+    height: 300px;
+    margin: 2%;
+}
