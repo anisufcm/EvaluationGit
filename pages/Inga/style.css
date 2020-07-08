@@ -3,7 +3,8 @@ body {
 }
 
 .presentation {
-    padding: 10px 20px 10px 20px;
+    padding: 20px 20px 10px 20px;
+    border-radius: 40px 40px 0px 0px;
 }
 
 .textXXlarge {
@@ -44,6 +45,10 @@ body {
     font-size: x-large;
 }
 
+.competencesContainer{
+   border-bottom-left-radius: 40px;
+   padding-bottom: 20px;
+}
 .headerCompetences {
     padding-left: 20px;
     
@@ -67,10 +72,14 @@ body {
 
 .divCenter {
     display: grid;
-    grid-template-columns: 420px auto;    
+    grid-template-columns: 420px auto;        
+}
+.contactContainerGlobal{
+    border-bottom-right-radius: 40px;
 }
 .contactContainer{
     border-top-left-radius: 60px ;
+    border-bottom-right-radius: 40px;
     height: 100%;
 }
 .headerContact{
