@@ -1,4 +1,4 @@
-.header{
+.titreEntete{
   margin-top: 7%;
   margin-bottom: 3%;
   text-align: center;
@@ -20,4 +20,20 @@
   align-items: baseline;
   justify-content: center;
   margin-bottom: 6%;
+}
+.monTitre{
+  font-size: x-large;
+  font-weight: 700;
+  color: brown;
+}
+.Divimages2{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  margin-bottom: 6%;
+  margin: 40px;
+}
+.Divimages2 > div{
+  margin: 30px;
 }
