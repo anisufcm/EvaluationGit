@@ -1,0 +1,23 @@
+.header{
+  margin-top: 7%;
+  margin-bottom: 3%;
+  text-align: center;
+  color: darkred;
+}
+.presentation{
+  text-align: center; 
+  font-weight: 600;
+  font-size: large;
+  margin-bottom: 4%;
+}
+.titre{
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.Divimages{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  margin-bottom: 6%;
+}
