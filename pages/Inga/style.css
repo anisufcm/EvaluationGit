@@ -1,5 +1,5 @@
 body {
-    padding: 10px;
+    padding: 5px;
 }
 
 .presentation {
@@ -44,19 +44,47 @@ body {
     font-size: x-large;
 }
 
-.headerCompetences{
+.headerCompetences {
     padding-left: 20px;
+    
     font-size: xx-large;
     text-decoration: underline;
 }
-.competences{
+
+.competences {
     padding: 10px 10px 10px 25px;
     display: grid;
     grid-template-columns: 50px 200px 100px;
     row-gap: 20px;
     column-gap: 10px;
     align-items: center;
+   
 }
-.imgCompetence{
+
+.imgCompetence {
     width: 100%;
+}
+
+.divCenter {
+    display: grid;
+    grid-template-columns: 420px auto;    
+}
+.contactContainer{
+    border-top-left-radius: 60px ;
+    height: 100%;
+}
+.headerContact{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.contact{    
+    padding: 40px 10px 10px 20px;
+    font-size: large;
+    display: grid;
+    grid-template-columns: 25px auto;
+    column-gap: 5px;
+    row-gap: 20px;
 }
