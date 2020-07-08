@@ -1,0 +1,45 @@
+body {
+    padding: 10px;
+}
+
+.presentation {
+    padding: 10px 20px 10px 20px;
+}
+
+.textXXlarge {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.colorVert {
+    color: rgb(73, 192, 178);
+}
+
+.colorGris {
+    color: rgb(88, 89, 91);
+}
+
+.colorWhite {
+    color: white;
+}
+
+.bgColorVert {
+    background-color: rgb(73, 192, 178);
+}
+
+.bgColorGris {
+    background-color: rgb(88, 89, 91);
+}
+
+.textPresentation {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: large;
+    font-style: italic;
+}
+
+.headerPresentation {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: x-large;
+}
