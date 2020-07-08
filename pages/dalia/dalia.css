@@ -1,27 +1,27 @@
 article {
     display: block;
 }
-#intro {
+#introdalia {
     position: relative;
-    margin: 1% 8%;
-    max-width: 70%;
+    max-width: 80%;
     background-color: white;
     border-radius: 4px;
     padding: 4.5rem 2.5rem 1.5rem 2.5rem;
+    margin:1% 8%;
 }
 .image.main img{
     justify-content: center;
-    width: 100%;
+    width: 80%;
    
 }
 .image img {
     display: block;
 }
-#work {
+#skillsdalia{
     position: relative;
-    margin: 1% 8%;
-    max-width: 70%;
+    max-width: 80%;
     background-color: white;
     border-radius: 4px;
     padding: 4.5rem 2.5rem 1.5rem 2.5rem;
+    margin:1% 8%;
 }
